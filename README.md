@@ -4,7 +4,7 @@ Identify the text in the image (optical character recognition)
 
 In our case, we have used a specific configuration of the tesseract. There are multiple options available for tesseract configuration.
 
-configuration = ("-l eng --oem 1 --psm 8")
+Default configuration = ("-l eng --oem 1 --psm 8")
 
 l: language, chosen English in the above code.
 
