@@ -1,6 +1,10 @@
 # optical-character-recognition-_tesseract
 Identify the text in the image (optical character recognition)
 
+Prerequistic:
+* Dowload and install Tesseract-OCR in your system.
+* Download frozen_east_text_detection (https://github.com/oyyd/frozen_east_text_detection.pb)
+
 
 In our case, we have used a specific configuration of the tesseract. There are multiple options available for tesseract configuration.
 
